@@ -1,4 +1,4 @@
-# Treasury Take Home Project
+# Alcohol Label Verification App
 
 A web application for checking alcohol label images against user-provided label information. The app supports both single-label validation and batch validation using a spreadsheet.
 
