@@ -128,7 +128,7 @@ Spreadsheet labelName: test_vodka_pass
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/eliamikhail1/treasury_take_home_project.git
+git clone https://github.com/eliamikhail1/alcohol_label_app.git
 cd alcohol-label-validator
 ```
 
